@@ -3,33 +3,11 @@
 
 ---
 
-## 📚 FICHA TÉCNICA DE LA ACTIVIDAD
+## 📋 PREPARACIÓN DE DATOS Y DOCUMENTO BASE
 
-- **Duración:** 2 sesiones (50 min cada una)
-- **Nivel:** ESO/Bachillerato/FP
-- **Software:** LibreOffice Writer + Calc (o Microsoft Word + Excel)
-- **Agrupamiento:** Individual o parejas
+### PARTE A: Crear la base de datos
 
----
-
-## 🎯 OBJETIVOS DE APRENDIZAJE
-
-Al finalizar la actividad, el alumnado será capaz de:
-
-1. Crear una base de datos estructurada correctamente
-2. Identificar qué campos necesita un documento
-3. Vincular un documento Writer con una fuente de datos
-4. Insertar campos de combinación en posiciones correctas
-5. Previsualizar y generar documentos personalizados
-6. Exportar el resultado final
-
----
-
-## 📋 SESIÓN 1: PREPARACIÓN DE DATOS Y DOCUMENTO BASE
-
-### PARTE A: Crear la base de datos (20 min)
-
-**PASO 1:** Abre LibreOffice Calc (o Excel)
+**PASO 1:** Abre LibreOffice Calc
 
 **PASO 2:** Crea esta tabla con **exactamente estos nombres de columna** (sin tildes, sin espacios):
 
@@ -49,7 +27,7 @@ Al finalizar la actividad, el alumnado será capaz de:
 | ThunderBolt | Javier | Gómez Prieto | javier.gomez@email.com | FIFA 24 | Thunder FC | División 2 | 16/11/2025 | 16:00 | Sala Gaming C |
 | PhoenixFire | Marta | Díaz Torres | marta.diaz@email.com | Fortnite | Phoenix Rising | Campeón | 16/11/2025 | 18:30 | Sala Gaming A |
 
-**PASO 4:** Guarda el archivo como: `inscritos_torneo.ods` (o `.xlsx`)
+**PASO 4:** Guarda el archivo como: `inscritos_torneo.ods`
 
 **⚠️ IMPORTANTE:**
 - Primera fila = nombres de campos (encabezados)
@@ -58,7 +36,7 @@ Al finalizar la actividad, el alumnado será capaz de:
 
 ---
 
-### PARTE B: Crear el documento de email (30 min)
+### PARTE B: Crear el documento de email
 
 **PASO 1:** Abre LibreOffice Writer (nuevo documento)
 
@@ -111,25 +89,21 @@ Torneo Esports 2025
 - Emojis (si quieres)
 - Espaciado entre secciones
 
-**PASO 4:** Guarda como: `email_confirmacion.odt` (o `.docx`)
+**PASO 4:** Guarda como: `email_confirmacion.odt`
 
 ---
 
-## 📧 SESIÓN 2: COMBINACIÓN DE CORRESPONDENCIA
+## 📧 COMBINACIÓN DE CORRESPONDENCIA
 
-### PARTE C: Vincular la base de datos (15 min)
+### PARTE C: Vincular la base de datos
 
 **En LibreOffice Writer:**
 
-**PASO 1:** Menú → **Herramientas** → **Asistente para combinar correspondencia**
+**PASO 1 (alternativo):** Menú → **Ver** → **Orígenes de datos**
 
-O también:
+**PASO 2:** Menú → **Archivo** → **Asistentes** → **Orígenes de datos de direcciones**
 
-**PASO 1 (alternativo):** Menú → **Ver** → **Fuentes de datos** (F4)
-
-**PASO 2:** Menú → **Archivo** → **Asistentes** → **Fuente de datos de direcciones**
-
-**PASO 3:** Selecciona "Otra fuente de datos externa"
+**PASO 3:** Selecciona "Otro origen de datos externo"
 
 **PASO 4:** Busca y selecciona tu archivo `inscritos_torneo.ods`
 
@@ -137,7 +111,7 @@ O también:
 
 ---
 
-### PARTE D: Insertar campos de combinación (20 min)
+### PARTE D: Insertar campos de combinación
 
 **PASO 1:** Coloca el cursor donde pone `[aquí irá el email]`
 
@@ -157,16 +131,9 @@ O también:
 - `[hora]` → campo **Hora**
 - `[sala]` → campo **Sala**
 
-**💡 TRUCO:** Los campos insertados aparecerán con **fondo gris** cuando haces clic en ellos.
-
 ---
 
-### PARTE E: Previsualizar y generar (15 min)
-
-**PASO 1: Previsualizar**
-- Usa las flechas en la barra de herramientas para navegar entre registros
-- Verifica que todos los datos se muestran correctamente
-- Comprueba que no hay errores de formato
+### PARTE E: Previsualizar y generar
 
 **PASO 2: Generar documentos**
 
@@ -183,132 +150,10 @@ O también:
 
 ---
 
-## ✅ CRITERIOS DE EVALUACIÓN
-
-| Criterio | Puntos | Descripción |
-|----------|--------|-------------|
-| **Base de datos** | 2 pts | Estructura correcta, mínimo 8 registros, sin errores |
-| **Documento base** | 2 pts | Formato atractivo, texto correcto, bien organizado |
-| **Vinculación** | 2 pts | Base de datos correctamente vinculada |
-| **Campos insertados** | 2 pts | Todos los campos en posición correcta |
-| **Resultado final** | 1.5 pts | Previsualización correcta, sin errores |
-| **Presentación** | 0.5 pts | Limpieza, creatividad, profesionalidad |
-| **TOTAL** | **10 pts** | |
-
----
-
-## 🎯 RÚBRICA DETALLADA
-
-### Excelente (9-10):
-- Base de datos perfecta con más de 10 registros
-- Formato muy atractivo y profesional
-- Todos los campos correctos
-- Creatividad en el diseño
-
-### Notable (7-8):
-- Base de datos correcta con 8-10 registros
-- Formato correcto y ordenado
-- Campos correctos con algún error menor
-
-### Aprobado (5-6):
-- Base de datos con errores menores
-- Formato básico pero funcional
-- Algunos campos incorrectos o faltantes
-
-### Insuficiente (<5):
-- Base de datos con errores graves
-- No consigue vincular o insertar campos
-- Resultado no funcional
-
----
-
-## 💡 CONSEJOS PARA EL PROFESORADO
-
-### Errores comunes del alumnado:
-
-1. **Nombres de columnas con espacios o tildes** → No funcionan bien
-   - ❌ "Fecha de Torneo"
-   - ✅ "Fecha_Torneo"
-
-2. **Filas vacías en la base de datos** → Genera emails en blanco
-
-3. **No actualizar campos** → Mostrar cómo refrescar con F9
-
-4. **Formato perdido** → Explicar que el formato se aplica ANTES de insertar campos
-
-5. **Confusión entre "campo" y "texto"** → Los campos tienen fondo gris al hacer clic
-
----
-
-## 🚀 EXTENSIONES Y VARIACIONES
-
-### Para alumnado avanzado:
-
-**1. Añadir campos condicionales:**
-```
-«IF Equipo = "Solo" "Competirás individualmente" "Competirás con tu equipo"»
-```
-
-**2. Personalizar el saludo:**
-```
-«IF Nombre = "Carlos" "Hola crack" "Hola campeón/a"»
-```
-
-**3. Añadir imágenes personalizadas** según el juego
-
-**4. Crear etiquetas para carnets** de participante
-
-**5. Generar QR codes** con los datos de cada participante
-
----
-
-### Para adaptar dificultad:
-
-**Nivel BÁSICO:**
-- Solo 4-5 campos
-- Base de datos ya creada (se la das tú)
-- Plantilla de email ya formateada
-
-**Nivel MEDIO:**
-- 8-10 campos
-- Crean ellos la base de datos
-- Diseñan el email
-
-**Nivel AVANZADO:**
-- Campos condicionales
-- Múltiples documentos (email + diploma)
-- Exportar a diferentes formatos
-
----
-
-## 📦 ENTREGABLES
-
-El alumnado debe entregar:
+## 📦 A ENTREGAR
 
 1. ✅ Archivo `inscritos_torneo.ods` con los datos
 2. ✅ Archivo `email_confirmacion.odt` con campos insertados
 3. ✅ Archivo `emails_generados.pdf` con todos los emails combinados
-4. ✅ Captura de pantalla de la previsualización
-
----
-
-## 📝 NOTAS ADICIONALES
-
-### Recursos adicionales:
-- Tutorial oficial de LibreOffice sobre combinación de correspondencia
-- Vídeos explicativos en el aula virtual
-- Ejemplos de otros documentos (diplomas, carnets, etiquetas)
-
-### Temporalización sugerida:
-- **Sesión 1 (50 min):** Creación de base de datos y documento base
-- **Sesión 2 (50 min):** Vinculación, inserción de campos y generación
-
-### Competencias trabajadas:
-- Competencia digital
-- Competencia lingüística (redacción profesional)
-- Aprender a aprender (seguir procedimientos)
-- Iniciativa y emprendimiento (aplicación práctica)
-
----
 
 *Actividad diseñada para gamificar el aprendizaje de combinación de correspondencia*
