@@ -1,5 +1,5 @@
-# ACTIVIDAD: COMBINACIÓN DE CORRESPONDENCIA
-## Email de Confirmación - Torneo Esports 2025
+# COMBINACIÓN DE CORRESPONDENCIA
+# ACTIVIDAD 1: Email de Confirmación - Torneo Esports 2025
 
 ---
 
@@ -99,7 +99,7 @@ Torneo Esports 2025
 
 **En LibreOffice Writer:**
 
-**PASO 1 (alternativo):** Menú → **Ver** → **Orígenes de datos**
+**PASO 1:** Menú → **Ver** → **Orígenes de datos**
 
 **PASO 2:** Menú → **Archivo** → **Asistentes** → **Orígenes de datos de direcciones**
 
@@ -156,4 +156,12 @@ Torneo Esports 2025
 2. ✅ Archivo `email_confirmacion.odt` con campos insertados
 3. ✅ Archivo `emails_generados.pdf` con todos los emails combinados
 
-*Actividad diseñada para gamificar el aprendizaje de combinación de correspondencia*
+---
+
+# ACTIVIDAD 2: Carnet de asistente - Torneo Esports 2025
+
+Debes diseñar en Writer un carnet similar al mostrado en la imagen siguiente:
+
+Una vez tengas hecho el diseño, inserta los campos de combinación para crear un carnet para cada asistente al torneo. En este caso debes usar: Nickname, Nombre, Apellidos, Juego, Rango, Fecha_Torneo, Hora y Sala.
+
+Los iconos los puedes obtener de (fonts.google.com) > Icons.
