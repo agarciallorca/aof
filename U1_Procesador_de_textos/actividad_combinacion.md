@@ -14,7 +14,7 @@
 | Nickname | Nombre | Apellidos | Email | Juego | Equipo | Rango | Fecha_Torneo | Hora | Sala |
 |----------|--------|-----------|-------|-------|--------|-------|--------------|------|------|
 
-**PASO 3:** Rellena con **AL MENOS 8 participantes** inventados. Ejemplo:
+**PASO 3:** Rellena con **AL MENOS 8 participantes** inventados. Ejemplo (puedes copiar y pegar):
 
 | Nickname | Nombre | Apellidos | Email | Juego | Equipo | Rango | Fecha_Torneo | Hora | Sala |
 |----------|--------|-----------|-------|-------|--------|-------|--------------|------|------|
