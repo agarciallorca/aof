@@ -170,7 +170,7 @@ Debes diseñar en Writer un carnet similar al mostrado en la imagen siguiente:
 - **Color de fondo:** h141836
 - **Tipos de letra:** Bahnschrift y Bahnschrift Condensed
 
-Una vez tengas hecho el diseño, inserta los campos de combinación en el lugar correspondiente para crear un carnet para cada asistente al torneo. En este caso debes usar: Nickname, Nombre, Apellidos, Juego, Rango, Fecha_Torneo, Hora y Sala.
+Una vez tengas hecho el diseño, **inserta los campos de combinación** en el lugar correspondiente para crear un carnet para cada asistente al torneo. En este caso debes usar: _Nickname, Nombre, Apellidos, Juego, Rango, Fecha_Torneo, Hora y Sala_.
 
 Los iconos los puedes obtener de [Google Fonts](https://fonts.google.com) > Icons.
 
