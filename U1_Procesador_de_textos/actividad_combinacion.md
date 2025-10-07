@@ -173,3 +173,10 @@ Debes diseñar en Writer un carnet similar al mostrado en la imagen siguiente:
 Una vez tengas hecho el diseño, inserta los campos de combinación en el lugar correspondiente para crear un carnet para cada asistente al torneo. En este caso debes usar: Nickname, Nombre, Apellidos, Juego, Rango, Fecha_Torneo, Hora y Sala.
 
 Los iconos los puedes obtener de [Google Fonts](https://fonts.google.com) > Icons.
+
+---
+
+## 📦 A ENTREGAR
+
+1. ✅ Archivo `carnet.odt` con campos insertados
+2. ✅ Archivo `carnets_generados.pdf` con todos los carnets combinados
