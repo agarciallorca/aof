@@ -162,6 +162,8 @@ Torneo Esports 2025
 
 Debes diseñar en Writer un carnet similar al mostrado en la imagen siguiente:
 
+![modelo de carnet](img/carnet.png)
+
 Una vez tengas hecho el diseño, inserta los campos de combinación para crear un carnet para cada asistente al torneo. En este caso debes usar: Nickname, Nombre, Apellidos, Juego, Rango, Fecha_Torneo, Hora y Sala.
 
-Los iconos los puedes obtener de (fonts.google.com) > Icons.
+Los iconos los puedes obtener de [Google Fonts](https://fonts.google.com) > Icons.
