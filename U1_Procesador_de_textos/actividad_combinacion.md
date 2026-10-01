@@ -1,5 +1,5 @@
 # COMBINACIÓN DE CORRESPONDENCIA
-# ACTIVIDAD 1: Email de Confirmación - Torneo Esports 2025
+# ACTIVIDAD 1: Email de Confirmación - Torneo Esports 2026
 
 ---
 
@@ -18,14 +18,14 @@
 
 | Nickname | Nombre | Apellidos | Email | Juego | Equipo | Rango | Fecha_Torneo | Hora | Sala |
 |----------|--------|-----------|-------|-------|--------|-------|--------------|------|------|
-| ShadowKill | Carlos | García López | carlos.garcia@email.com | Valorant | Night Wolves | Platino | 15/11/2025 | 16:00 | Sala Gaming A |
-| LunaPro | Laura | Martínez Ruiz | laura.martinez@email.com | League of Legends | Phoenix Team | Oro | 15/11/2025 | 17:00 | Sala Gaming B |
-| DragonSlayer | Miguel | Fernández Soto | miguel.fernandez@email.com | Fortnite | Solo | Diamante | 15/11/2025 | 16:30 | Sala Gaming A |
-| QueenGamer | Ana | López Moreno | ana.lopez@email.com | Valorant | Valkyries | Oro | 15/11/2025 | 18:00 | Sala Gaming C |
-| ElitePro99 | David | Sánchez Gil | david.sanchez@email.com | CS2 | Elite Squad | Global | 16/11/2025 | 16:00 | Sala Gaming A |
-| NinjaStar | Paula | Rodríguez Vega | paula.rodriguez@email.com | League of Legends | Solo | Platino | 16/11/2025 | 17:30 | Sala Gaming B |
-| ThunderBolt | Javier | Gómez Prieto | javier.gomez@email.com | FIFA 24 | Thunder FC | División 2 | 16/11/2025 | 16:00 | Sala Gaming C |
-| PhoenixFire | Marta | Díaz Torres | marta.diaz@email.com | Fortnite | Phoenix Rising | Campeón | 16/11/2025 | 18:30 | Sala Gaming A |
+| ShadowKill | Carlos | García López | carlos.garcia@email.com | Valorant | Night Wolves | Platino | 15/11/2026 | 16:00 | Sala Gaming A |
+| LunaPro | Laura | Martínez Ruiz | laura.martinez@email.com | League of Legends | Phoenix Team | Oro | 15/11/2026 | 17:00 | Sala Gaming B |
+| DragonSlayer | Miguel | Fernández Soto | miguel.fernandez@email.com | Fortnite | Solo | Diamante | 15/11/2026 | 16:30 | Sala Gaming A |
+| QueenGamer | Ana | López Moreno | ana.lopez@email.com | Valorant | Valkyries | Oro | 15/11/2026 | 18:00 | Sala Gaming C |
+| ElitePro99 | David | Sánchez Gil | david.sanchez@email.com | CS2 | Elite Squad | Global | 16/11/2026 | 16:00 | Sala Gaming A |
+| NinjaStar | Paula | Rodríguez Vega | paula.rodriguez@email.com | League of Legends | Solo | Platino | 16/11/2026 | 17:30 | Sala Gaming B |
+| ThunderBolt | Javier | Gómez Prieto | javier.gomez@email.com | FIFA 24 | Thunder FC | División 2 | 16/11/2026 | 16:00 | Sala Gaming C |
+| PhoenixFire | Marta | Díaz Torres | marta.diaz@email.com | Fortnite | Phoenix Rising | Campeón | 16/11/2026 | 18:30 | Sala Gaming A |
 
 **PASO 4:** Guarda el archivo como: `inscritos_torneo.ods`
 
@@ -44,13 +44,13 @@
 
 ```
 Para: [aquí irá el email]
-Asunto: ✅ ¡Inscripción confirmada al Torneo Esports 2025!
+Asunto: ✅ ¡Inscripción confirmada al Torneo Esports 2026!
 
 ─────────────────────────────────────────
 
 Hola [nickname],
 
-¡Bienvenido/a al Torneo Esports 2025!
+¡Bienvenido/a al Torneo Esports 2026!
 
 Tu inscripción ha sido confirmada con los siguientes datos:
 
@@ -73,13 +73,13 @@ Tu inscripción ha sido confirmada con los siguientes datos:
    ✓ Llega 15 minutos antes de tu hora
    ✓ Trae tu DNI o documento de identificación
    ✓ Si juegas en PC, puedes traer tu propio teclado/ratón/auriculares
-   ✓ Consulta las reglas completas en: www.torneoesports2025.com
+   ✓ Consulta las reglas completas en: www.torneoesports2026.com
 
 🏆 ¡Nos vemos en el torneo, [nickname]! Que gane el mejor.
 
 Mucha suerte,
 Equipo organizador
-Torneo Esports 2025
+Torneo Esports 2026
 
 ─────────────────────────────────────────
 ```
@@ -158,7 +158,7 @@ Torneo Esports 2025
 
 ---
 
-# ACTIVIDAD 2: Carnet de asistente - Torneo Esports 2025
+# ACTIVIDAD 2: Carnet de asistente - Torneo Esports 2026
 
 Debes diseñar en Writer un carnet similar al mostrado en la imagen siguiente:
 
