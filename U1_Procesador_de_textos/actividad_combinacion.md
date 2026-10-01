@@ -24,7 +24,7 @@
 | QueenGamer | Ana | López Moreno | ana.lopez@email.com | Valorant | Valkyries | Oro | 15/11/2026 | 18:00 | Sala Gaming C |
 | ElitePro99 | David | Sánchez Gil | david.sanchez@email.com | CS2 | Elite Squad | Global | 16/11/2026 | 16:00 | Sala Gaming A |
 | NinjaStar | Paula | Rodríguez Vega | paula.rodriguez@email.com | League of Legends | Solo | Platino | 16/11/2026 | 17:30 | Sala Gaming B |
-| ThunderBolt | Javier | Gómez Prieto | javier.gomez@email.com | FIFA 24 | Thunder FC | División 2 | 16/11/2026 | 16:00 | Sala Gaming C |
+| ThunderBolt | Javier | Gómez Prieto | javier.gomez@email.com | FIFA 26 | Thunder FC | División 2 | 16/11/2026 | 16:00 | Sala Gaming C |
 | PhoenixFire | Marta | Díaz Torres | marta.diaz@email.com | Fortnite | Phoenix Rising | Campeón | 16/11/2026 | 18:30 | Sala Gaming A |
 
 **PASO 4:** Guarda el archivo como: `inscritos_torneo.ods`
