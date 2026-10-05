@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 PREPARACIÓN DE DATOS Y DOCUMENTO BASE
+## PREPARACIÓN DE DATOS Y DOCUMENTO BASE
 
 ### PARTE A: Crear la base de datos
 
@@ -93,7 +93,7 @@ Torneo Esports 2026
 
 ---
 
-## 📧 COMBINACIÓN DE CORRESPONDENCIA
+## COMBINACIÓN DE CORRESPONDENCIA
 
 ### PARTE C: Vincular la base de datos
 
@@ -150,11 +150,11 @@ Torneo Esports 2026
 
 ---
 
-## 📦 A ENTREGAR
+## A ENTREGAR
 
-1. ✅ Archivo `inscritos_torneo.ods` con los datos
-2. ✅ Archivo `email_confirmacion.odt` con campos insertados
-3. ✅ Archivo `emails_generados.pdf` con todos los emails combinados
+1. Archivo `inscritos_torneo.ods` con los datos
+2. Archivo `email_confirmacion.odt` con campos insertados
+3. Archivo `emails_generados.pdf` con todos los emails combinados
 
 ---
 
@@ -176,7 +176,7 @@ Los iconos los puedes obtener de [Google Fonts](https://fonts.google.com) > Icon
 
 ---
 
-## 📦 A ENTREGAR
+## A ENTREGAR
 
-1. ✅ Archivo `carnet.odt` con campos insertados
-2. ✅ Archivo `carnets_generados.pdf` con todos los carnets combinados
+1. Archivo `carnet.odt` con campos insertados
+2. Archivo `carnets_generados.pdf` con todos los carnets combinados
