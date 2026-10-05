@@ -162,12 +162,12 @@ Torneo Esports 2026
 
 Debes diseñar en Writer un carnet similar al mostrado en la imagen siguiente:
 
-![modelo de carnet](img/Carnet.png)
+![modelo de carnet](img/Carnet2026.png)
 
 **Indicaciones:**
 - **Tamaño del papel:** anchura 7,5 cm y altura 15 cm
 - **Márgenes:** izquierda y derecha 1 cm, arriba y abajo 0,5 cm
-- **Color de fondo:** h141836
+- **Color de fondo:** h040b10
 - **Tipos de letra:** Bahnschrift y Bahnschrift Condensed
 
 Una vez tengas hecho el diseño, **inserta los campos de combinación** en el lugar correspondiente para crear un carnet para cada asistente al torneo. En este caso debes usar: _Nickname, Nombre, Apellidos, Juego, Rango, Fecha_Torneo, Hora y Sala_.
